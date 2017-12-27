@@ -1,0 +1,3 @@
+- Título: [Título do livro]
+- Autor(a): [Autor(a) do livro; colocar todos os nomes em ordem alfabética]
+- Edição: [Nº da edição]
